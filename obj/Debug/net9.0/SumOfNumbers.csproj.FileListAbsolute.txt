@@ -1,0 +1,15 @@
+/home/operatorio/Документы/meCodes/SumOfNumbers/bin/Debug/net9.0/SumOfNumbers
+/home/operatorio/Документы/meCodes/SumOfNumbers/bin/Debug/net9.0/SumOfNumbers.deps.json
+/home/operatorio/Документы/meCodes/SumOfNumbers/bin/Debug/net9.0/SumOfNumbers.runtimeconfig.json
+/home/operatorio/Документы/meCodes/SumOfNumbers/bin/Debug/net9.0/SumOfNumbers.dll
+/home/operatorio/Документы/meCodes/SumOfNumbers/bin/Debug/net9.0/SumOfNumbers.pdb
+/home/operatorio/Документы/meCodes/SumOfNumbers/obj/Debug/net9.0/SumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/operatorio/Документы/meCodes/SumOfNumbers/obj/Debug/net9.0/SumOfNumbers.AssemblyInfoInputs.cache
+/home/operatorio/Документы/meCodes/SumOfNumbers/obj/Debug/net9.0/SumOfNumbers.AssemblyInfo.cs
+/home/operatorio/Документы/meCodes/SumOfNumbers/obj/Debug/net9.0/SumOfNumbers.csproj.CoreCompileInputs.cache
+/home/operatorio/Документы/meCodes/SumOfNumbers/obj/Debug/net9.0/SumOfNumbers.sourcelink.json
+/home/operatorio/Документы/meCodes/SumOfNumbers/obj/Debug/net9.0/SumOfNumbers.dll
+/home/operatorio/Документы/meCodes/SumOfNumbers/obj/Debug/net9.0/refint/SumOfNumbers.dll
+/home/operatorio/Документы/meCodes/SumOfNumbers/obj/Debug/net9.0/SumOfNumbers.pdb
+/home/operatorio/Документы/meCodes/SumOfNumbers/obj/Debug/net9.0/SumOfNumbers.genruntimeconfig.cache
+/home/operatorio/Документы/meCodes/SumOfNumbers/obj/Debug/net9.0/ref/SumOfNumbers.dll
