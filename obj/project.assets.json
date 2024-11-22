@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/home/operatorio/.nuget/packages/": {}
+    "/home/casper/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/operatorio/Документы/meCodes/SumOfNumbers/SumOfNumbers.csproj",
+      "projectUniqueName": "/home/casper/Документы/Codes/SumOfNumber/SumOfNumbers/SumOfNumbers.csproj",
       "projectName": "SumOfNumbers",
-      "projectPath": "/home/operatorio/Документы/meCodes/SumOfNumbers/SumOfNumbers.csproj",
-      "packagesPath": "/home/operatorio/.nuget/packages/",
-      "outputPath": "/home/operatorio/Документы/meCodes/SumOfNumbers/obj/",
+      "projectPath": "/home/casper/Документы/Codes/SumOfNumber/SumOfNumbers/SumOfNumbers.csproj",
+      "packagesPath": "/home/casper/.nuget/packages/",
+      "outputPath": "/home/casper/Документы/Codes/SumOfNumber/SumOfNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/operatorio/.nuget/NuGet/NuGet.Config"
+        "/home/casper/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
