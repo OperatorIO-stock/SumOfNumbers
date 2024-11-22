@@ -15,7 +15,7 @@ class Program
         Random random = new Random();
         int number = random.Next(minValue, maxValue);
 
-        for(int i = 0; i < number; number--)
+        for(int i = minValue; minValue < number; number--)
         {
             if(number % multiplicityChecksNumber1 == 0 || number % multiplicityChecksNumber2 == 0)
             {
