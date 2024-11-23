@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/casper/Документы/Codes/SumOfNumber/SumOfNumbers/SumOfNumbers.csproj",
+      "projectUniqueName": "/home/casper/Документы/Codes/SumOfNumbers/SumOfNumbers/SumOfNumbers.csproj",
       "projectName": "SumOfNumbers",
-      "projectPath": "/home/casper/Документы/Codes/SumOfNumber/SumOfNumbers/SumOfNumbers.csproj",
+      "projectPath": "/home/casper/Документы/Codes/SumOfNumbers/SumOfNumbers/SumOfNumbers.csproj",
       "packagesPath": "/home/casper/.nuget/packages/",
-      "outputPath": "/home/casper/Документы/Codes/SumOfNumber/SumOfNumbers/obj/",
+      "outputPath": "/home/casper/Документы/Codes/SumOfNumbers/SumOfNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/casper/.nuget/NuGet/NuGet.Config"

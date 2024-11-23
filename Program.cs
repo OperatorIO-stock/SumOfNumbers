@@ -7,20 +7,19 @@ class Program
 
         int maxValue = 100;
         int minValue = 0;
-
-        int multiplicityChecksNumber1 = 3;
-        int multiplicityChecksNumber2 = 5;
-
+        int firstDivider = 3;
+        int secondDivider = 5;
 
         Random random = new Random();
         int number = random.Next(minValue, maxValue);
 
         for(int i = minValue; minValue < number; number--)
         {
-            if(number % multiplicityChecksNumber1 == 0 || number % multiplicityChecksNumber2 == 0)
+            if(number % firstDivider == 0 || number % secondDivider == 0)
             {
                 Console.WriteLine(number);
             }
         }
+
     }
 }
